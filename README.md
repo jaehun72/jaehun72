@@ -1,5 +1,4 @@
-<img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=Android&logoColor=#3DDC84"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=#3DDC84"/>
+⚡ Fun
 
 <!--
 **jaehun72/jaehun72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
